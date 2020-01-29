@@ -1,0 +1,21 @@
+.jumbotron{
+    background: url(../img/m.jpg);
+    background-size: cover;
+    height: 600px;
+    color: aqua;
+}
+.my-4{
+    border:1px solid black;
+}
+.modal-body {
+    color:black;
+    line-height: 30px;
+    text-align: justify;
+}
+.modal-title{
+    color:black;
+}
+#back{
+    background: url(../img/dasar.png);
+    background-size: cover;
+}
